@@ -33,6 +33,6 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JulioPe13)
+- Frontend Mentor - [@JulioPe13](https://www.frontendmentor.io/profile/JulioPe13)
 
 
