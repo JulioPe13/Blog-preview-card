@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/JulioPe13/Blog-preview-card)
-- Live Site URL: [Add live site URL here](https://blog-preview-card-psi-three.vercel.app/)
+- Live Site URL: [https://blog-preview-card-psi-three.vercel.app/](https://blog-preview-card-psi-three.vercel.app/)
 
 ## My process
 
